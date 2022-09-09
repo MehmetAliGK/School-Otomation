@@ -1,0 +1,17 @@
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\bin\Debug\PRoje_Okul.exe.config
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\bin\Debug\PRoje_Okul.exe
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\bin\Debug\PRoje_Okul.pdb
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.csproj.AssemblyReference.cache
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.csproj.SuggestedBindingRedirects.cache
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.Form1.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.Properties.Resources.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.csproj.GenerateResource.cache
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.exe
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.pdb
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.FrmOgrenciNotlar.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.FrmOgretmen.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.FrmKulüp.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.FrmDersler.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.FrmOgrenci.resources
+C:\Users\MEHMET ALİ GÖK\Desktop\windows form application\PRoje_Okul\obj\Debug\PRoje_Okul.FrmSınavNotlar.resources
